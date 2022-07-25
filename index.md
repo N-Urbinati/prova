@@ -5,6 +5,15 @@ layout: default
 ## About me
 I am a postdoctoral researcher at the Department of Economics of Università Ca' Foscari in Venice, Italy.
 
+I have obtained a Ph.D. in Economics at the University of Naples "Federico II" and a Degree in Mathematics at the University of Udine.
+
+My main research interests are:
+- Mathematical Economics,
+- Microeconomic Theory,
+- Walrasian General Equilibrium.
+
+### Experience
+
 #### Research interests:
 Microeconomic Theory, Mathematical Economics, Walrasian General Equilibrium.
 
