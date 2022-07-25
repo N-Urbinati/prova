@@ -9,6 +9,18 @@ My research interests are in Microeconomic Theory and Mathematical Economics, wi
 
 * * *
 ## Research
+A detailed list of all pubblications and working papers is here.
+### Working Papers
+ * UN & LiCalzi M. (2022). <em>Market equilibrium via classifications of commodities</em>.
+ * UN (2020). <em>Walrasian objection mechanism and Mas Colell’s bargaining set in economies with many commodities</em>.
+ * Khan, M. A. & UN. (2019).  <em>What space is the right commodity space in Walrasian competitive economies?</em>.
+ 
+### Publications
+* Graziano, M.G. & Pesce, M. & UN. (2020). <em>Generalized coalitions and bargaining sets</em>, Journal of Mathematical Economics.
+* UN. (2019).  <em>A convexity result for the range of vector measures with applications to large economies</em>, Journal of Mathematical Analysis and Applications.
+* UN. & Weber, H. (2017). <em>A note on the range of vector measures</em>. Mathematica Slovaca.
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
