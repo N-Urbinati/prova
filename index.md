@@ -2,6 +2,15 @@
 layout: default
 ---
 
+## About me
+I am a postdoctoral researcher at the Department of Economics of Università Ca' Foscari in Venice, Italy.
+
+My research interests are in Microeconomic Theory and Mathematical Economics, with a specific focus on Walrasian General Equilibrium.
+
+* * *
+## Research
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
