@@ -8,6 +8,12 @@ I am a postdoctoral researcher at the Department of Economics of Università Ca'
 #### Research interests:
 Microeconomic Theory, Mathematical Economics, Walrasian General Equilibrium.
 
+#### Experience
+|:-------------|:------------------|:------|
+| 2020    | Ph.D. in Economics | University of Napoli, "Federico II"  |
+| 2019 | Visitng Scholar   | Johns Hopkins University  |
+| 2016          | Master Degree in Mathematics      | University of Udine   |
+
 * * *
 ## Research
 A detailed list of all pubblications and working papers is here.
@@ -22,12 +28,9 @@ A detailed list of all pubblications and working papers is here.
 * UN. & Weber, H. (2017). <em>A note on the range of vector measures</em>. Mathematica Slovaca.
 
 ### Presentations in international conferences
-- 2022: EWET (Warsaw), UMI conference (Padoa), NEAT Seminars (Venice).
-- 2021: Advances in Mathematical Economics (Naples).
-- 2020: AMASES (Remote).
-- 2019: AMASES (Perugia), SAET (Ischia), II Italian meeting in probability (Vietri sul Mare), EWET (Berlin).
-- 2018: VI Workshop on Equilibrium Analysis (Naples).
-- 2017: SAET (Faro).
+**2022:** EWET (Warsaw, PL), UMI conference (Padoa, IT), NEAT Seminars (Venice, IT). **2021:** Advances in Mathematical Economics (Naples, IT). **2020:** AMASES (Remote). **2019:** AMASES (Perugia, IT), SAET (Ischia, IT), II Italian meeting in probability (Vietri sul Mare, IT), EWET (Berlin, DE).
+**2018:** VI Workshop on Equilibrium Analysis (Naples, IT).
+**2017:** SAET (Faro, PT).
 
 ## Teaching
 
