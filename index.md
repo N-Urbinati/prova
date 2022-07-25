@@ -5,7 +5,8 @@ layout: default
 ## About me
 I am a postdoctoral researcher at the Department of Economics of Università Ca' Foscari in Venice, Italy.
 
-My research interests are in Microeconomic Theory and Mathematical Economics, with a specific focus on Walrasian General Equilibrium.
+#### Research interests:
+Microeconomic Theory, Mathematical Economics, Walrasian General Equilibrium.
 
 * * *
 ## Research
@@ -20,6 +21,13 @@ A detailed list of all pubblications and working papers is here.
 * UN. (2019).  <em>A convexity result for the range of vector measures with applications to large economies</em>, Journal of Mathematical Analysis and Applications.
 * UN. & Weber, H. (2017). <em>A note on the range of vector measures</em>. Mathematica Slovaca.
 
+### Presentations in international conferences
+- 2022: EWET (Warsaw), UMI conference (Padoa), NEAT Seminars (Venice).
+- 2021: Advances in Mathematical Economics (Naples).
+- 2020: AMASES (Remote).
+- 2019: AMASES (Perugia), SAET (Ischia), II Italian meeting in probability (Vietri sul Mare), EWET (Berlin).
+- 2018: VI Workshop on Equilibrium Analysis (Naples).
+- 2017: SAET (Faro).
 
 
 
