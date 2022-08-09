@@ -12,7 +12,28 @@ My main research interests are:
 - Microeconomic Theory,
 - Walrasian General Equilibrium.
 
-### Experience
+# About me
+
+I am a postdoctoral researcher at the **Department of Economics** at the **Università Ca' Foscari** in Venice, Italy.
+
+I work on Microeconomic Theory and Mathematical Economics.
+
+### Research Interests:
+- Walrasian General Equilibrium Theory.
+- Modeling large societies.
+- Strategic interactions with model misspecification.
+- Non-additive measures.
+
+* * *
+#### Previous experience
+
+| head1        | head two          | three |
+|:------|:------------------|:---------------------|
+| 2019-2021 | Department of Management | Post-doc researcher |
+| 2016-2020 | Department of Econmics and Statistics, University of Napoli "Federico II" | Ph.D. in Economics |
+| 2018-2019 | Department of Economics, Johns Hopkins University | Visiting Scholar |
+| 2013-2016 | Department of Mathematics and Informatics, University of Udine | Master Degree in Mathematics|
+
 
 #### Research interests:
 Microeconomic Theory, Mathematical Economics, Walrasian General Equilibrium.
