@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## About me
 I am a postdoctoral researcher at the **Department of Economics** of **Università Ca' Foscari** in Venice, Italy.
@@ -45,7 +42,28 @@ I work on Microeconomic Theory and Mathematical Economics.
 * <em>Ph.D. scholarship</em>, (2016--2020) University of Napoli "Federico II''.
 
 ## Teaching
+#### Lecturer:
+- **2020-2021** MATHEMATICS FOR ECONOMICS, 
+  - Università Ca' Foscari of Venice, Economia e commercio -Bachelor's Degree Programme. (Taught in Italian)
+-**2020-2021 MATHEMATICS I: Topology and Measure Theory**, 
+  -University of Napoli "Federico II", Doctoral programme in Economics.
 
+    [2019-2020] MATHEMATICS I: Topology and Measure Theory, University of Napoli "Federico II", Doctoral programme in Economics.
+
+
+Teaching Assistant:
+
+    [2015-2016] MATHEMATICS I, University of Udine, Agronomy - Bachelor's Degree Programme. Lecturer: Prof. R. Di Santo. (Taught in Italian)
+
+    [2014-2015] MATHEMATICS AND LOGICS, University of Udine, Informatics - Bachelor's Degree Programme. Lecturer: Prof. A. Marcone. (Taught in Italian)
+
+Tutoring activities:
+
+    [2018-2019] Academic tutor, Department of Economics and Statistics, University of Napoli "Federico II".
+
+    [2015-2016] E-learning tutor, Department of Mathematics and Informatics, University of Udine.
+
+    [2014-2015] Academic tutor, Department of Mathematics and Informatics, Unviersity of Udine.
 
 
 
