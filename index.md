@@ -3,9 +3,53 @@ layout: default
 ---
 
 ## About me
-I am a postdoctoral researcher at the Department of Economics of Università Ca' Foscari in Venice, Italy.
+I am a postdoctoral researcher at the **Department of Economics** of **Università Ca' Foscari** in Venice, Italy.
 
 I have obtained a Ph.D. in Economics at the University of Naples "Federico II" and a Degree in Mathematics at the University of Udine.
+
+I work on Microeconomic Theory and Mathematical Economics.
+
+### Research Interests:
+- Walrasian General Equilibrium Theory.
+- Modeling large societies.
+- Strategic interactions with model misspecification.
+- Non-additive measures.
+
+#### Previous experience
+
+|:------|:------------------|:---------------------|
+| 2019-2021 | Department of Management | Post-doc researcher |
+| 2016-2020 | Department of Econmics and Statistics, University of Napoli "Federico II" | Ph.D. in Economics |
+| 2018-2019 | Department of Economics, Johns Hopkins University | Visiting Scholar |
+| 2013-2016 | Department of Mathematics and Informatics, University of Udine | Master Degree in Mathematics|
+
+## Research
+#### Working Papers
+ * UN & LiCalzi M. (2022). <em>Market equilibrium via classifications of commodities</em>.
+ * UN (2020). <em>Walrasian objection mechanism and Mas Colell’s bargaining set in economies with many commodities</em>.
+ * Khan, M. A. & UN. (2019).  <em>What space is the right commodity space in Walrasian competitive economies?</em>.
+ 
+#### Publications
+* Graziano, M.G. & Pesce, M. & UN. (2020). <em>Generalized coalitions and bargaining sets</em>, Journal of Mathematical Economics.
+* UN. (2019).  <em>A convexity result for the range of vector measures with applications to large economies</em>, Journal of Mathematical Analysis and Applications.
+* UN. & Weber, H. (2017). <em>A note on the range of vector measures</em>. Mathematica Slovaca.
+
+#### Presentations in international conferences
+**2022:** EWET (Warsaw, PL), UMI conference (Padoa, IT), NEAT Seminars (Venice, IT). **2021:** Advances in Mathematical Economics (Naples, IT). **2020:** AMASES (Remote). **2019:** AMASES (Perugia, IT), SAET (Ischia, IT), II Italian meeting in probability (Vietri sul Mare, IT), EWET (Berlin, DE).
+**2018:** VI Workshop on Equilibrium Analysis (Naples, IT).
+**2017:** SAET (Faro, PT).
+
+#### Grants and Awards
+* <em>AMASES AWARD</em> for the best conference paper presented by a young member, (2020) AMASES conference, Padua.
+* <em>Programma STAR- linea 2- mobilità giovani ricercatori,</em> (2018) Grant from the University of Napoli "Federico II" and Compagnia di San Paolo for the research project "Lyapunov's Theorem in Equilibrium Analysis".
+* <em>Ph.D. scholarship</em>, (2016--2020) University of Napoli "Federico II''.
+
+## Teaching
+
+
+
+
+
 
 My main research interests are:
 - Mathematical Economics,
